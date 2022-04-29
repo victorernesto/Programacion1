@@ -1,0 +1,9 @@
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\bin\Debug\DATOS.dll
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\bin\Debug\DATOS.pdb
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\obj\Debug\DATOS.dll
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\DATOS\obj\Debug\DATOS.pdb

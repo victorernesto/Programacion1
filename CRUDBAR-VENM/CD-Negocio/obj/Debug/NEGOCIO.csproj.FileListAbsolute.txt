@@ -1,0 +1,2 @@
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\CD-Negocio\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\CD-Negocio\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache

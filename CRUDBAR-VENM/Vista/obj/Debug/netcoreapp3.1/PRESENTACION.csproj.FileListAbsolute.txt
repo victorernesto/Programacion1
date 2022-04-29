@@ -1,0 +1,7 @@
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\Vista.Form1.resources
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\PRESENTACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\PRESENTACION.AssemblyInfoInputs.cache
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\PRESENTACION.AssemblyInfo.cs
+C:\Users\50376\Documents\GitHub\Programacion1\CRUDBAR-VENM\Vista\obj\Debug\netcoreapp3.1\PRESENTACION.csproj.CoreCompileInputs.cache
